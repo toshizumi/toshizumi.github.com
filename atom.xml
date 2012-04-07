@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[ttt]]></title>
   <link href="http://toshizumi.github.com/atom.xml" rel="self"/>
   <link href="http://toshizumi.github.com/"/>
-  <updated>2012-04-07T11:47:04+09:00</updated>
+  <updated>2012-04-08T08:44:41+09:00</updated>
   <id>http://toshizumi.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Toshizumi Horita]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>ハロー。
 github pageにOctopressで記事をデプロイしてみたよ。
 rubyよくわかんないから少し苦労したよ。
-viで記事書けるってのはいい感じ。
+vimで記事書けるってのはいい感じ。
 これからイロイロ研究してみよう。</p>
 ]]></content>
   </entry>
